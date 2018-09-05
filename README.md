@@ -1,2 +1,2 @@
-# the-human
-source code for homo sapiens. still buggy
+# The-human
+Source code for *Homo sapiens*. Still buggy; development currently maintained by @Evolution.
